@@ -8,9 +8,9 @@ console.log(nombre, apellido, valorDado);
 //Las constantes y variables let crean variables de Scoup (NO funcionan dentro de otras funciones)
 
 if (true) {
-    let valorDado = 7;
+    const nombre = 'José';
 
-    console.log(valorDado);
+    console.log(nombre);
 }
 
 console.log( valorDado);
